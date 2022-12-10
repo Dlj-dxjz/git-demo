@@ -15,3 +15,4 @@ hello git！hello atguigu!
 ihello git！hello atguigu!
 dfjdf d fd
 dfdfjdfjdljf by hot-fxi
+hot-fix conflict seccond
